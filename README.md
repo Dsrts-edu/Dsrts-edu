@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dsrts-edu
 - 👀 I’m interested in full stack development and security 
-- 🌱 I’m currently learning Software engineering, computer organization and algorithms 
+- 🌱 I’m currently taking (Fall 2022) Theory of Computation, Operating Systems, and Augmented Reality
 - 💞️ I’m looking to intern summer of 2023
 - 📫 How to reach me ...stolpsmith@mines.edu 
 
